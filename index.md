@@ -8,8 +8,8 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **computational social science:** agent-based modeling, social simulation
+- **labor economics:** migration at regional and local level, matching on the labor market, policy evaluation
 
 ## Publications
 
