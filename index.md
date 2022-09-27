@@ -16,7 +16,7 @@ Poznan, Poland
 - Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.** 
  <br> (2022). Psychological Well-Being and Nature Relatedness. Forests, 2022, 13(7), 1048.
  http://dx.doi.org/10.3390/f13071048
- <br>
+
    [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
    
 - **Wozniak, M.**, Dziecielski, M. (2022). Should I Turn or Should I Go? Simulation of Pedestrian Behavior
