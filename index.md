@@ -8,8 +8,9 @@ Poznan, Poland
 
 ## Research Interests
 
-- **computational social science:** agent-based modeling, social simulation
+- **computational social science:** social simulation, agent-based modeling
 - **labor economics:** migration at regional and local level, matching on the labor market, policy analysis
+- **spatial econometrics**
 
 ## Publications
 
