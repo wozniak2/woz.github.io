@@ -31,6 +31,8 @@ perspective”, Taylor & Francis (accepted chapter)
 in an Urban Environment, Journal of Simulation, Taylor & Francis,
 http://dx.doi.org/10.1080/17477778.2022.2029594
 
+   [[PDF]([https://www.mdpi.com/1999-4907/13/10/1569](https://www.tandfonline.com/doi/full/10.1080/17477778.2022.2029594))] [[Code]()] [[Project]()]
+
 - Orczyk, J. **Wozniak, M.** (2022). The ins and outs of the Polish labour market. In Three Decades of
 Polish Socio-Economic Transfomations—Geographical Perspective; Churski, P., Kaczmarek, T., Eds.;
 Springer: Berlin/Heidelberg; (In Press)
