@@ -40,7 +40,7 @@ http://dx.doi.org/10.3390/su13158337.
 Journal for Labour Market Research, Springer, Heidelberg, Vol. 55, Iss. 1, pp. 1-17.
 http://dx.doi.org/10.1186/s12651-021-00293-1
 
- [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
 - **Wozniak, M.** (2021). Conceptual Framework for Modeling Complex Urban Systems—From Theoretical
 Assumptions to Empirical Basis. In: Ahrweiler P., Neumann M. (eds) Advances in Social Simulation.
