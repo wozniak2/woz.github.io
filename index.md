@@ -20,12 +20,12 @@ perspective”, Taylor & Francis (accepted chapter)
 
 - Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.**, and Bałaj, B. (2022). "Psychosocial Determinants of Recreational Activity within Urban Green Spaces during the COVID-19 Pandemic in Poland" Forests 13, no. 10: 1569. https://doi.org/10.3390/f13101569
 
-   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+   [[PDF](https://www.mdpi.com/1999-4907/13/10/1569)] [[Code]([https://github.com/wozniak2/psychosocial_determinants)] [[Project](https://github.com/wozniak2/psychosocial_determinants)]
 
 - Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.**(2022). Psychological Well-Being and Nature Relatedness. Forests, 13(7), 1048.
  http://dx.doi.org/10.3390/f13071048
 
-   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+   [[PDF](https://www.mdpi.com/1999-4907/13/7/1048/htm)] [[Code]()] [[Project]()]
    
 - **Wozniak, M.**, Dziecielski, M. (2022). Should I Turn or Should I Go? Simulation of Pedestrian Behavior
 in an Urban Environment, Journal of Simulation, Taylor & Francis,
