@@ -13,12 +13,13 @@ Poznan, Poland
 
 ## Publications
 
-- Wozniak, M., Shelest-Szumilas, O. (2023). The determinants of (not)hiring migrants in Poland: the
+- **Wozniak, M.**, Shelest-Szumilas, O. (2023). The determinants of (not)hiring migrants in Poland: the
 pandemic perspective in: "Work in the pandemic and post-pandemic digital world - CEE countries
 perspective”, Taylor & Francis (accepted chapter)
 
-- Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.** 
- <br> (2022). Psychological Well-Being and Nature Relatedness. Forests, 2022, 13(7), 1048.
+- Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.**, and Bałaj, B. (2022). "Psychosocial Determinants of Recreational Activity within Urban Green Spaces during the COVID-19 Pandemic in Poland" Forests 13, no. 10: 1569. https://doi.org/10.3390/f13101569
+
+- Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.**(2022). Psychological Well-Being and Nature Relatedness. Forests, 13(7), 1048.
  http://dx.doi.org/10.3390/f13071048
 
    [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
@@ -47,7 +48,15 @@ ESSA 2019. Springer Proceedings in Complexity. Springer, Cham. https://doi.org/1
 61503-1_48
 <br>
 
-Wozniak, M. (2020). Fore
+- **Wozniak, M.** (2020). Forecasting the unemployment rate over districts with the use of distinct methods.
+Studies in Nonlinear Dynamics & Econometrics, 24(2), 20160115. https://doi.org/10.1515/snde-2016-0115
+
+- Dzięcielski, M., Radzimski, A. **Wozniak, M.** (2020). Bike-sharing system in Poznan – what will Web API
+data tell us?. Prace Komisji Geografii Komunikacji PTG, 2020, 29-40.
+https://doi.org/10.4467/2543859XPKG.20.018.12786
+
+- **Wozniak, M.** (2020). Virtualising Space – New Directions for Applications of Agent-Based Modelling in
+Spatial Economics. Acta Universitatis Lodziensi
 
 
 ## Courses
