@@ -39,3 +39,7 @@ I am a Ph.D. student at ...
 
 ## Services
 - Journal Reviewers: PLOS, IJCV.
+
+## Personal Interests:
+- Triathlon
+- SF
