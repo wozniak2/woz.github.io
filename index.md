@@ -31,7 +31,7 @@ perspective”, Taylor & Francis (accepted chapter)
 in an Urban Environment, Journal of Simulation, Taylor & Francis,
 http://dx.doi.org/10.1080/17477778.2022.2029594
 
-   [[PDF]([https://www.mdpi.com/1999-4907/13/10/1569](https://www.tandfonline.com/doi/full/10.1080/17477778.2022.2029594))] [[Code]()] [[Project]()]
+   [[PDF](http://dx.doi.org/10.1080/17477778.2022.2029594)] [[Code]()] [[Project]()]
 
 - Orczyk, J. **Wozniak, M.** (2022). The ins and outs of the Polish labour market. In Three Decades of
 Polish Socio-Economic Transfomations—Geographical Perspective; Churski, P., Kaczmarek, T., Eds.;
@@ -45,12 +45,14 @@ http://dx.doi.org/10.3390/su13158337.
 Journal for Labour Market Research, Springer, Heidelberg, Vol. 55, Iss. 1, pp. 1-17.
 http://dx.doi.org/10.1186/s12651-021-00293-1
 
-   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
+[[PDF](http://dx.doi.org/10.1186/s12651-021-00293-1)] [[Code](https://github.com/wozniak2/spatialMF)] [[Project](https://github.com/wozniak2/spatialMF)]
 
 - **Wozniak, M.** (2021). Conceptual Framework for Modeling Complex Urban Systems—From Theoretical
 Assumptions to Empirical Basis. In: Ahrweiler P., Neumann M. (eds) Advances in Social Simulation.
 ESSA 2019. Springer Proceedings in Complexity. Springer, Cham. https://doi.org/10.1007/978-3-030-
 61503-1_48
+
+[[PDF](https://doi.org/10.1007/978-3-030-61503-1_48)] [[Code]()] [[Project]()]
 
 - **Wozniak, M.** (2020). Forecasting the unemployment rate over districts with the use of distinct methods.
 Studies in Nonlinear Dynamics & Econometrics, 24(2), 20160115. https://doi.org/10.1515/snde-2016-0115
@@ -59,9 +61,7 @@ Studies in Nonlinear Dynamics & Econometrics, 24(2), 20160115. https://doi.org/1
 data tell us?. Prace Komisji Geografii Komunikacji PTG, 2020, 29-40.
 https://doi.org/10.4467/2543859XPKG.20.018.12786
 
-- **Wozniak, M.** (2020). Virtualising Space – New Directions for Applications of Agent-Based Modelling in
-Spatial Economics. Acta Universitatis Lodziensi
-
+- **Wozniak, M.** (2020). Virtualising Space – New Directions for Applications of Agent-Based Modelling in Spatial Economics. Acta Universitatis Lodziensis. Folia Oeconomica, 1(346), 7–26. https://doi.org/10.18778/0208-6018.346.01
 
 ## Courses
 - Statistical data analysis, Labor market analysis, Real estate economics
