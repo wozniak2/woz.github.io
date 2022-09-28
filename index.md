@@ -35,13 +35,13 @@ http://dx.doi.org/10.1080/17477778.2022.2029594
 
 - Orczyk, J., **Wozniak, M.** (2022). The Ins and Outs of the Labour Market. In: Churski, P., Kaczmarek, T. (eds) Three Decades of Polish Socio-Economic Transformations. Economic Geography. Springer, Cham. https://doi.org/10.1007/978-3-031-06108-0_19
 
-   [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-06108-0_19] [[Code]()] [[Project]()]
+   [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-06108-0_19)] [[Code]()] [[Project]()]
 
 - Churski, P., Kroczak, H., Łuczak, M., Shelest-Szumilas, O., **Wozniak, M.** (2021). Adaptation Strategies
 of Migrant Workers from Ukraine during the COVID-19 Pandemic. Sustainability, 13(15), 8337.
 http://dx.doi.org/10.3390/su13158337.
 
-   [[PDF](http://dx.doi.org/10.3390/su13158337] [[Code]()] [[Project]()]
+   [[PDF](http://dx.doi.org/10.3390/su13158337)] [[Code]()] [[Project]()]
 
 - **Wozniak, M.** (2021). Spatial matching on the urban labor market: estimates with unique micro data,
 Journal for Labour Market Research, Springer, Heidelberg, Vol. 55, Iss. 1, pp. 1-17.
