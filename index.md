@@ -33,13 +33,15 @@ http://dx.doi.org/10.1080/17477778.2022.2029594
 
    [[PDF](http://dx.doi.org/10.1080/17477778.2022.2029594)] [[Code]()] [[Project]()]
 
-- Orczyk, J. **Wozniak, M.** (2022). The ins and outs of the Polish labour market. In Three Decades of
-Polish Socio-Economic Transfomations—Geographical Perspective; Churski, P., Kaczmarek, T., Eds.;
-Springer: Berlin/Heidelberg; (In Press)
+- Orczyk, J., **Wozniak, M.** (2022). The Ins and Outs of the Labour Market. In: Churski, P., Kaczmarek, T. (eds) Three Decades of Polish Socio-Economic Transformations. Economic Geography. Springer, Cham. https://doi.org/10.1007/978-3-031-06108-0_19
+
+   [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-06108-0_19] [[Code]()] [[Project]()]
 
 - Churski, P., Kroczak, H., Łuczak, M., Shelest-Szumilas, O., **Wozniak, M.** (2021). Adaptation Strategies
 of Migrant Workers from Ukraine during the COVID-19 Pandemic. Sustainability, 13(15), 8337.
 http://dx.doi.org/10.3390/su13158337.
+
+   [[PDF](http://dx.doi.org/10.3390/su13158337] [[Code]()] [[Project]()]
 
 - **Wozniak, M.** (2021). Spatial matching on the urban labor market: estimates with unique micro data,
 Journal for Labour Market Research, Springer, Heidelberg, Vol. 55, Iss. 1, pp. 1-17.
@@ -57,11 +59,17 @@ ESSA 2019. Springer Proceedings in Complexity. Springer, Cham. https://doi.org/1
 - **Wozniak, M.** (2020). Forecasting the unemployment rate over districts with the use of distinct methods.
 Studies in Nonlinear Dynamics & Econometrics, 24(2), 20160115. https://doi.org/10.1515/snde-2016-0115
 
+  [[PDF](https://doi.org/10.1515/snde-2016-0115)] [[Code]()] [[Project]()]
+
 - Dzięcielski, M., Radzimski, A. **Wozniak, M.** (2020). Bike-sharing system in Poznan – what will Web API
 data tell us?. Prace Komisji Geografii Komunikacji PTG, 2020, 29-40.
 https://doi.org/10.4467/2543859XPKG.20.018.12786
 
+   [[PDF](https://doi.org/10.4467/2543859XPKG.20.018.12786)] [[Code]()] [[Project]()]
+
 - **Wozniak, M.** (2020). Virtualising Space – New Directions for Applications of Agent-Based Modelling in Spatial Economics. Acta Universitatis Lodziensis. Folia Oeconomica, 1(346), 7–26. https://doi.org/10.18778/0208-6018.346.01
+
+   [[PDF](https://doi.org/10.18778/0208-6018.346.01)] [[Code]()] [[Project]()]
 
 ## Courses
 - Statistical data analysis, Labor market analysis, Real estate economics
