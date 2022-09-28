@@ -71,7 +71,7 @@ https://doi.org/10.4467/2543859XPKG.20.018.12786
 
    [[PDF](https://doi.org/10.18778/0208-6018.346.01)] [[Code]()] [[Project]()]
 
-## Courses
+## Teaching
 - Statistical data analysis, Labor market analysis, Real estate economics
 
 ## Personal Interests:
