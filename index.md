@@ -45,14 +45,14 @@ http://dx.doi.org/10.3390/su13158337.
 Journal for Labour Market Research, Springer, Heidelberg, Vol. 55, Iss. 1, pp. 1-17.
 http://dx.doi.org/10.1186/s12651-021-00293-1
 
-[[PDF](http://dx.doi.org/10.1186/s12651-021-00293-1)] [[Code](https://github.com/wozniak2/spatialMF)] [[Project](https://github.com/wozniak2/spatialMF)]
+   [[PDF](http://dx.doi.org/10.1186/s12651-021-00293-1)] [[Code](https://github.com/wozniak2/spatialMF)] [[Project](https://github.com/wozniak2/spatialMF)]
 
 - **Wozniak, M.** (2021). Conceptual Framework for Modeling Complex Urban Systems—From Theoretical
 Assumptions to Empirical Basis. In: Ahrweiler P., Neumann M. (eds) Advances in Social Simulation.
 ESSA 2019. Springer Proceedings in Complexity. Springer, Cham. https://doi.org/10.1007/978-3-030-
 61503-1_48
 
-[[PDF](https://doi.org/10.1007/978-3-030-61503-1_48)] [[Code]()] [[Project]()]
+   [[PDF](https://doi.org/10.1007/978-3-030-61503-1_48)] [[Code]()] [[Project]()]
 
 - **Wozniak, M.** (2020). Forecasting the unemployment rate over districts with the use of distinct methods.
 Studies in Nonlinear Dynamics & Econometrics, 24(2), 20160115. https://doi.org/10.1515/snde-2016-0115
