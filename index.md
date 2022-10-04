@@ -66,6 +66,12 @@ data tell us?. Prace Komisji Geografii Komunikacji PTG, 2020, 29-40.
 https://doi.org/10.4467/2543859XPKG.20.018.12786
 
    [[PDF](https://doi.org/10.4467/2543859XPKG.20.018.12786)] [[Code]()] [[Project]()]
+   
+- Dzięcielski M., Radzimski A., **Wozniak M.**, 2020, Exploring bike-sharing systems in Poland co-financed from the European Union
+funds, Prace Komisji Geografii Komunikacji PTG, 23(4), 7–18. http://dx.doi.org/10.4467/2543859XPKG.20.023.13125
+
+   [[PDF](http://dx.doi.org/10.4467/2543859XPKG.20.023.13125)] [[Code]()] [[Project]()]
+
 
 - **Wozniak, M.** (2020). Virtualising Space – New Directions for Applications of Agent-Based Modelling in Spatial Economics. Acta Universitatis Lodziensis. Folia Oeconomica, 1(346), 7–26. https://doi.org/10.18778/0208-6018.346.01
 
