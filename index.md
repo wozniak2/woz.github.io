@@ -23,12 +23,11 @@ perspective”, Taylor & Francis (accepted chapter)
 -  Dziecielski, M., **Wozniak, M.** Agent-based simulation of pedestrian movement: a gradient method with an amplification parameter,
 International Journal of Simulation and Process Modelling, Vol. 18, No. 3, pp. 244–252, https://doi.org/10.1504/IJSPM.2022.126897
 
- [[PDF]([(https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897))] [[Code]([https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)] [[Project](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)]
-
+   [[PDF](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)] [[Code](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)] [[Project](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)]
 
 - Grabowska-Chenczke, O., Wajchman-Świtalska, S., **Wozniak, M.**, and Bałaj, B. (2022). Psychosocial Determinants of Recreational Activity within Urban Green Spaces during the COVID-19 Pandemic in Poland, Forests 13, no. 10: 1569. https://doi.org/10.3390/f13101569
 
-   [[PDF](https://www.mdpi.com/1999-4907/13/10/1569)] [[Code]([https://github.com/wozniak2/psychosocial_determinants)] [[Project](https://github.com/wozniak2/psychosocial_determinants)]
+   [[PDF](https://www.mdpi.com/1999-4907/13/10/1569)] [[Code](https://github.com/wozniak2/psychosocial_determinants)] [[Project](https://github.com/wozniak2/psychosocial_determinants)]
 
 - Grabowska-Chenczke, O., Wajchman-Świtalska, S., & **Wozniak, M.**(2022). Psychological Well-Being and Nature Relatedness. Forests, 13(7), 1048.
  http://dx.doi.org/10.3390/f13071048
