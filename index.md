@@ -18,9 +18,9 @@ Poznan, Poland
 pandemic perspective in: "Work in the pandemic and post-pandemic digital world - CEE countries
 perspective”, Taylor & Francis (accepted chapter)
 
-- Wajchman-Świtalska, S., Zajadacz, A., Woźniak, M., Jaszczak, R., & Beker, C. (2022). Recreational Evaluation of Forests in Urban Environments: Methodological and Practical Aspects. Sustainability, 14(22), 15177. https://doi.org/10.3390/su142215177
+- Wajchman-Świtalska, S., Zajadacz, A., **Wozniak, M.**, Jaszczak, R., & Beker, C. (2022). Recreational Evaluation of Forests in Urban Environments: Methodological and Practical Aspects. Sustainability, 14(22), 15177. https://doi.org/10.3390/su142215177
 
--  Dziecielski, M., **Wozniak, M.** Agent-based simulation of pedestrian movement: a gradient method with an amplification parameter,
+-  Dziecielski, M., **Wozniak, M.** (2022). Agent-based simulation of pedestrian movement: a gradient method with an amplification parameter,
 International Journal of Simulation and Process Modelling, Vol. 18, No. 3, pp. 244–252, https://doi.org/10.1504/IJSPM.2022.126897
 
    [[PDF](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)] [[Code](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)] [[Project](https://www.inderscienceonline.com/doi/abs/10.1504/IJSPM.2022.126897)]
