@@ -20,6 +20,8 @@ perspective”, Taylor & Francis (accepted chapter)
 
 - Wajchman-Świtalska, S., Zajadacz, A., **Wozniak, M.**, Jaszczak, R., & Beker, C. (2022). Recreational Evaluation of Forests in Urban Environments: Methodological and Practical Aspects. Sustainability, 14(22), 15177. https://doi.org/10.3390/su142215177
 
+   [[PDF](https://www.mdpi.com/2071-1050/14/22/15177)] [[Code]()] [[Project]()]
+
 -  Dziecielski, M., **Wozniak, M.** (2022). Agent-based simulation of pedestrian movement: a gradient method with an amplification parameter,
 International Journal of Simulation and Process Modelling, Vol. 18, No. 3, pp. 244–252, https://doi.org/10.1504/IJSPM.2022.126897
 
