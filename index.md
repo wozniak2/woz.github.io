@@ -12,11 +12,13 @@ Poznan, Poland
 - **labor economics:** migration at regional and local level, matching on the labor market, policy analysis
 - **spatial econometrics**
 
-## Publications
+## Publications:
 
-- **Wozniak, M.**, Shelest-Szumilas, O. (2023). The determinants of (not)hiring migrants in Poland: the
+- Shelest-Szumilas, O., **Wozniak, M.** (2023). The determinants of (not)hiring migrants in Poland: the
 pandemic perspective in: "Work in the pandemic and post-pandemic digital world - CEE countries
-perspective”, Taylor & Francis (accepted chapter)
+perspective”, Routledge, https://doi.org/10.4324/9781003326779
+
+   [[PDF](https://doi.org/10.4324/9781003326779)] [[Code](https://doi.org/10.4324/9781003326779)] [[Project]()]
 
 - Wajchman-Świtalska, S., Zajadacz, A., **Wozniak, M.**, Jaszczak, R., & Beker, C. (2022). Recreational Evaluation of Forests in Urban Environments: Methodological and Practical Aspects. Sustainability, 14(22), 15177. https://doi.org/10.3390/su142215177
 
