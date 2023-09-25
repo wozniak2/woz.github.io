@@ -14,6 +14,11 @@ Poznan, Poland
 
 ## Publications:
 
+- Shelest-Szumilas, O., **Wozniak, M.** (2023) The Fears and Hopes of Ukrainian Migrant Workers in Poland in the Pandemic Era.
+Journal of International Migration & Integration, https://doi.org/10.1007/s12134-023-01051-7
+
+ [[PDF](https://doi.org/10.1007/s12134-023-01051-7)] [[Code](https://doi.org/10.1007/s12134-023-01051-7)] [[Project]()]
+
 - Shelest-Szumilas, O., **Wozniak, M.** (2023). The determinants of (not)hiring migrants in Poland: the
 pandemic perspective in: "Work in the pandemic and post-pandemic digital world - CEE countries
 perspective”, Routledge, https://doi.org/10.4324/9781003326779
