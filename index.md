@@ -14,12 +14,12 @@ Poznan, Poland
 
 ## Publications:
 
-- Shelest-Szumilas, O., **Wozniak, M.** (2023) Looking a Gift Horse in the Mouth: Exploring Employers’ Activities Supporting Migrants in the Workplace,
+- Shelest-Szumilas, O., **Wozniak, M.** (2023). Looking a Gift Horse in the Mouth: Exploring Employers’ Activities Supporting Migrants in the Workplace,
 Social Policy, 588(3), pp. 19-25, http://dx.doi.org/10.5604/01.3001.0053.7100
 
 [[PDF](http://dx.doi.org/10.5604/01.3001.0053.7100)] [[Code](http://dx.doi.org/10.5604/01.3001.0053.7100)] [[Project]()]
 
-- Shelest-Szumilas, O., **Wozniak, M.** (2023) The Fears and Hopes of Ukrainian Migrant Workers in Poland in the Pandemic Era.
+- Shelest-Szumilas, O., **Wozniak, M.** (2023). The Fears and Hopes of Ukrainian Migrant Workers in Poland in the Pandemic Era.
 Journal of International Migration & Integration, https://doi.org/10.1007/s12134-023-01051-7
 
  [[PDF](https://doi.org/10.1007/s12134-023-01051-7)] [[Code](https://doi.org/10.1007/s12134-023-01051-7)] [[Project]()]
