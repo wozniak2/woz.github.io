@@ -14,6 +14,11 @@ Poznan, Poland
 
 ## Publications:
 
+- Wozniak, M. (2023). Dynamics of Pedestrians’ Flows During Daytime. In: Squazzoni, F. (eds) Advances in Social Simulation. ESSA 2022. Springer Proceedings in Complexity.
+  Springer, Cham. https://doi.org/10.1007/978-3-031-34920-1_9
+  
+  [[PDF](https://doi.org/10.1007/978-3-031-34920-1_9)] [[Code](https://doi.org/10.1007/978-3-031-34920-1_9)] [[Project]()]
+
 - Shelest-Szumilas, O., **Wozniak, M.** (2023). Looking a Gift Horse in the Mouth: Exploring Employers’ Activities Supporting Migrants in the Workplace,
 Social Policy, 588(3), pp. 19-25, http://dx.doi.org/10.5604/01.3001.0053.7100
 
