@@ -15,6 +15,7 @@ Poznan, Poland
 ## Publications:
 
 - Wozniak M. (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 0(0). https://doi.org/10.1177/00375497231212543
+  
   [[PDF](https://doi.org/10.1177/00375497231212543)] [[Code](https://doi.org/10.1177/00375497231212543)] [[Project]()]
 
 - Wozniak, M. (2023). Dynamics of Pedestrians’ Flows During Daytime. In: Squazzoni, F. (eds) Advances in Social Simulation. ESSA 2022. Springer Proceedings in Complexity.
