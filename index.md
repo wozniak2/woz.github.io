@@ -14,6 +14,10 @@ Poznan, Poland
 
 ## Publications:
 
+- Wozniak, M., Radzimski, A., & Wajchman-Świtalska, S. (2024, March 12). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation. https://doi.org/10.31219/osf.io/hcwgp
+
+  [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://doi.org/10.31219/osf.io/hcwgp)] [[Project]()]
+
 - Wozniak M. (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 0(0). https://doi.org/10.1177/00375497231212543
   
   [[PDF](https://doi.org/10.1177/00375497231212543)] [[Code](https://doi.org/10.1177/00375497231212543)] [[Project]()]
