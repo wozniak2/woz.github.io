@@ -13,7 +13,7 @@ Poznan, Poland
 - **spatial econometrics**
 
 ## Publications:
-- Shelest-Szumilas, O. & **Wozniak, M.** (2024) Stay away or stay in? Exploring settlement decisions of economic migrants and war refugees from Ukraine in the structural approach framework. International Migration, 62, 199–216. Available from: https://doi.org/10.1111/imig.13297
+- Shelest-Szumilas, O. & **Wozniak, M.** (2024) Stay away or stay in? Exploring settlement decisions of economic migrants and war refugees from Ukraine in the structural approach framework. International Migration, 62, 199–216. https://doi.org/10.1111/imig.13297
 
   [[PDF](https://doi.org/10.1111/imig.13297)] [[Code](https://doi.org/10.1111/imig.13297)] [[Project]()]
 
