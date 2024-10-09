@@ -13,6 +13,9 @@ Poznan, Poland
 - **spatial econometrics**
 
 ## Publications:
+- Shelest-Szumilas, O. & **Wozniak, M.** (2024) Stay away or stay in? Exploring settlement decisions of economic migrants and war refugees from Ukraine in the structural approach framework. International Migration, 62, 199–216. Available from: https://doi.org/10.1111/imig.13297
+
+[[PDF](https://doi.org/10.1111/imig.13297)] [[Code](https://doi.org/10.1111/imig.13297)] [[Project]()]
 
 - Wozniak, M., Radzimski, A., & Wajchman-Świtalska, S. (2024, March 12). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation. https://doi.org/10.31219/osf.io/hcwgp
 
