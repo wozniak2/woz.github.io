@@ -17,7 +17,7 @@ Poznan, Poland
 
   [[PDF](https://doi.org/10.1111/imig.13297)] [[Code](https://doi.org/10.1111/imig.13297)] [[Project]()]
 
-- Wozniak, M., Radzimski, A., & Wajchman-Świtalska, S. (2024, March 12). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation. https://doi.org/10.31219/osf.io/hcwgp
+- **Wozniak, M.**, Radzimski, A., & Wajchman-Świtalska, S. (2024, March 12). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation. https://doi.org/10.31219/osf.io/hcwgp
 
   [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://doi.org/10.31219/osf.io/hcwgp)] [[Project]()]
 
