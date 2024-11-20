@@ -21,7 +21,7 @@ Poznan, Poland
 
   [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://doi.org/10.31219/osf.io/hcwgp)] [[Project]()]
 
-- Wozniak M. (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 0(0). https://doi.org/10.1177/00375497231212543
+- Wozniak M. (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 100(3). https://doi.org/10.1177/00375497231212543
   
   [[PDF](https://doi.org/10.1177/00375497231212543)] [[Code](https://doi.org/10.1177/00375497231212543)] [[Project]()]
 
