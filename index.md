@@ -13,17 +13,22 @@ Poznan, Poland
 - **spatial econometrics**
 
 ## Publications:
+
+- **Wozniak, M.**, Radzimski, A., & Wajchman-Świtalska, S. (2025). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation, 104,
+128656, https://doi.org/10.1016/j.ufug.2024.128656.
+  [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://osf.io/wjqxs/)] [[Project](https://osf.io/wjqxs/)]
+
+
+- **Wozniak, M.** (2025). With just one tap. Network study of tweets dissemination during the war in Ukraine. Cogent Arts & Humanities, 12(1). https://doi.org/10.1080/23311983.2025.2451521
+  [[PDF](https://doi.org/10.1080/23311983.2025.2451521)] [[Code](https://doi.org/10.1080/23311983.2025.2451521)] [[Project]()]
+  
 - Shelest-Szumilas, O. & **Wozniak, M.** (2024) Stay away or stay in? Exploring settlement decisions of economic migrants and war refugees from Ukraine in the structural approach framework. International Migration, 62, 199–216. https://doi.org/10.1111/imig.13297
 
   [[PDF](https://doi.org/10.1111/imig.13297)] [[Code](https://doi.org/10.1111/imig.13297)] [[Project]()]
 
-- **Wozniak, M.**, Radzimski, A., & Wajchman-Świtalska, S. (2024, March 12). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation. https://doi.org/10.31219/osf.io/hcwgp
-
-  [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://doi.org/10.31219/osf.io/hcwgp)] [[Project]()]
-
-- Wozniak M. (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 100(3). https://doi.org/10.1177/00375497231212543
+- **Wozniak M.** (2023). From dawn to dusk: daily fluctuations in pedestrian traffic in the city center. SIMULATION. 100(3). https://doi.org/10.1177/00375497231212543
   
-  [[PDF](https://doi.org/10.1177/00375497231212543)] [[Code](https://doi.org/10.1177/00375497231212543)] [[Project]()]
+  [[PDF](https://doi.org/10.1016/j.ufug.2024.128656)] [[Code](https://doi.org/10.1016/j.ufug.2024.128656)] [[Project]()]
 
 - Wozniak, M. (2023). Dynamics of Pedestrians’ Flows During Daytime. In: Squazzoni, F. (eds) Advances in Social Simulation. ESSA 2022. Springer Proceedings in Complexity.
   Springer, Cham. https://doi.org/10.1007/978-3-031-34920-1_9
