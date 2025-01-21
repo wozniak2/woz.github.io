@@ -16,10 +16,12 @@ Poznan, Poland
 
 - **Wozniak, M.**, Radzimski, A., & Wajchman-Świtalska, S. (2025). Is More Always Better? Evaluating Accessibility to Parks and Forests in 33 European Cities Using Sustainable Modes of Transportation, 104,
 128656, https://doi.org/10.1016/j.ufug.2024.128656.
+  
   [[PDF](https://doi.org/10.31219/osf.io/hcwgp)] [[Code](https://osf.io/wjqxs/)] [[Project](https://osf.io/wjqxs/)]
 
 
 - **Wozniak, M.** (2025). With just one tap. Network study of tweets dissemination during the war in Ukraine. Cogent Arts & Humanities, 12(1). https://doi.org/10.1080/23311983.2025.2451521
+  
   [[PDF](https://doi.org/10.1080/23311983.2025.2451521)] [[Code](https://doi.org/10.1080/23311983.2025.2451521)] [[Project]()]
   
 - Shelest-Szumilas, O. & **Wozniak, M.** (2024) Stay away or stay in? Exploring settlement decisions of economic migrants and war refugees from Ukraine in the structural approach framework. International Migration, 62, 199–216. https://doi.org/10.1111/imig.13297
